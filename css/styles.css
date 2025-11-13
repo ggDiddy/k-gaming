@@ -520,7 +520,7 @@ a:hover {
 .casino-logo img {
     object-fit: cover;
     border-radius: 50%;
-    transform: scale(.3);
+    transform: scale(1.5);
     border: 3px solid var(--border-color);
 }
 
